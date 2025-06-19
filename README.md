@@ -17,3 +17,7 @@
 - If the customer repays the loan within 30 days from the loan initiation day, no interest will be charged.
 - If the customer fails to repay within this period, a daily interest of 1.8% (compound) will be applied on the remaining amount.
 - If a customer has already paid 50% of the remaining payment, they are eligible to apply for another loan.
+
+## Test documentations
+- Test Case
+- Bug Report
