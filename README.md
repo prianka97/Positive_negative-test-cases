@@ -1,6 +1,7 @@
 
-# Positive_negative-test-cases for MFS mobile app named EasyPay,
-There are mainly two features in this MFS mobile app. The details regarding the features are:
+# Positive_negative-test-cases for MFS mobile app named EasyPay
+
+#There are mainly two features in this MFS mobile app. The details regarding the features are:
 
 ##Feature 1
 
